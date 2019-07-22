@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Your company notes</title>
+</head>
+<body>
+	<h1>Notes company</h1>
+	<ul>
+		{% for n in notes %}
+		<li>{{n.title}}</li>
+		{% endfor %}
+	</ul>
+</body>
+</html>

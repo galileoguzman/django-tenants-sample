@@ -1,0 +1,14 @@
+/.venv
+/media
+/node_modules
+/public
+/dev_docs
+/static/bundles
+/staticfiles
+*.pyc
+*.DS_Store
+*.sqlite3
+*.env
+*.map
+settings.ini
+staticfiles/
