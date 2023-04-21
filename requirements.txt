@@ -3,4 +3,4 @@ django-tenants==2.2.3
 psycopg2==2.8.3
 python-decouple==3.1
 pytz==2019.1
-sqlparse==0.3.0
+sqlparse==0.4.4
